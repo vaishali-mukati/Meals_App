@@ -100,7 +100,7 @@ const dummyMeals = [
       title: 'Toast Hawaii',
       complexity: Complexity.simple,
       affordability: Affordability.affordable,
-      imageUrl:'https://commons.wikimedia.org/wiki/File:Toast_Hawaii_RZ.jp',
+      imageUrl:'https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg',
       duration: 10,
       ingredients: [
         '1 Slice White Bread ',
